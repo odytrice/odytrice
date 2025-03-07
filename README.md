@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odytrice
-- 👀 .NET Developer (C#/F#), JVM Developer (Java/Kotlin), F# is my super 💪🏾
-- 🌱 I’m currently learning Scala
+- 👀 .NET Developer (C#/F#), JVM Developer (Java/Kotlin/Scala), F# is my super 💪🏾
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me @odytrice on twitter
 
 <!---
