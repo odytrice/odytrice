@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @odytrice
-- 👀 .NET Developer (C#/F#), JVM Developer (Java/Kotlin/Scala), F# is my super 💪🏾
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me @odytrice on twitter
-
-<!---
-odytrice/odytrice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
 # 💫 About Me:
 👋 Hi, I’m @odytrice<br>👀 .NET Developer (C#/F#), JVM Developer (Java/Kotlin/Scala), F# is my super 💪🏾<br>🌱 I’m currently learning Rust<br>📫 How to reach me @odytrice on twitter
 
